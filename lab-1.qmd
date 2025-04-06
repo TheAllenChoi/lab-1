@@ -150,6 +150,6 @@ Alisa Krasilnikov took Stat 331 with Dr. Robinson. We went over a lot more of Gi
 
 Alisa has a birth month of November. She is born on November 3, 2003. Mine is May 30, 2003
 ```{r}
-as.Date("2003-05-30") - as.Date("2003-11-03")
+as.Date("2003-11-03") - as.Date("2003-05-30")
 ```
 
